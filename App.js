@@ -7,8 +7,9 @@ export default function App() {
     <View style={styles.container}>
       <Text>Eloá e Julia</Text>
       <Text>dia 07-03-2024</Text>
+      
       <Title/>
-      <button title='Salvar'></button>
+      <Button title='Salvar'></Button>
       <StatusBar style="auto" />
     </View>
   );
